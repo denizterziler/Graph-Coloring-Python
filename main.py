@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 
 
 '''First of all create a new file and assign it to edge_path. When entering the edges, the form should be as follows.
-    A->B
-    A->C
-    B->C
+    A B
+    A C
+    B C
     Initial operations before start the coloring. Change path and wait_time if you want.
 '''
 edge_path = "/Users/denizterziler/Desktop/guiTry.txt"
